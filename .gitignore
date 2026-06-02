@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Test data (large files kept local)
+data/
+
+# Results
+results/
